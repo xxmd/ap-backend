@@ -2,7 +2,7 @@
 
 set -e
 
-APP_NAME="strategy-mock"
+APP_NAME="ap-backend"
 PORT=8080
 JAR_TARGET="target"
 
