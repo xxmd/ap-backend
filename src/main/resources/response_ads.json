@@ -1,0 +1,11 @@
+{
+  "code": 20000,
+  "message": "广告策略请求成功",
+  "data": {
+    "platformType": "ads",
+    "param": {
+      "adClientParam": "ca-pub-8331324165144103",
+      "adSlotParam": "2735209311"
+    }
+  }
+}

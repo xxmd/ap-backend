@@ -1,0 +1,14 @@
+{
+  "code": 20000,
+  "message": "广告策略请求成功",
+  "data": {
+    "platformType": "adx",
+    "param": {
+      "gtagConfigParam": "G-12345678",
+      "bannerPathParam": "/6355419/Travel/Europe/France/Paris",
+      "bannerDivIdParam": "banner_ad",
+      "anchorPathParam": "/6355419/Travel/Europe/France/Paris",
+      "interstitialPathParam": "/6355419/Travel/Europe/France/Paris"
+    }
+  }
+}

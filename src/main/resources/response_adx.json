@@ -1,0 +1,14 @@
+{
+  "code": 20000,
+  "message": "广告策略请求成功",
+  "data": {
+    "platformType": "adx",
+    "param": {
+      "gtagConfigParam": "G-9VF1EKVHG6",
+      "bannerPathParam": "/23335421250/hjlhfr.xyz/art.hjlhfr.xyz_0519_banner_1",
+      "bannerDivIdParam": "div-gpt-ad-1779084770675-0",
+      "anchorPathParam": "/23335421250/jlzftl.xyz/allwisescience.jlzftl.xyz_0518_anchor_1",
+      "interstitialPathParam": "/23335421250/jlzftl.xyz/allwisescience.jlzftl.xyz_0518_inter_1"
+    }
+  }
+}

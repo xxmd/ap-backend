@@ -1,0 +1,13 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "packageList": [
+      "com.tiktok.lite.go",
+      "com.zhiliaoapp.musically",
+      "com.zhiliaoapp.musically.go"
+    ],
+    "allowMaxElapsedHour": 0,
+    "allowMaxBuildHour": 0
+  }
+}

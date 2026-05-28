@@ -1,0 +1,11 @@
+{
+  "code": 20000,
+  "message": "广告策略请求成功",
+  "data": {
+    "platformType": "mgid",
+    "param": {
+      "siteIdParam": "1091005",
+      "widgetIdParam": "1997555"
+    }
+  }
+}

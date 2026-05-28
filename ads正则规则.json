@@ -1,0 +1,30 @@
+[
+  {
+    "platform": "ads",
+    "regex": "gtag\\('config',\\s*'([^']+)'",
+    "paramTemplate": "{gtagConfigParam: \"#group1\"}",
+    "remark": "网站标识，必填，如果上传广告代码文件中不存在该参数需要停止解析并报错",
+    "required": true
+  },
+  {
+    "platform": "adx",
+    "regex": "googletag\\.defineSlot\\('([^']+)',\\s*\\[\\[.*?\\]\\]\\s*,\\s*'([^']+)'\\)\\.addService\\(googletag\\.pubads\\(\\)\\);",
+    "paramTemplate": "{bannerPathParam: \"#group1\",\nbannerDivIdParam: \"#group2\"}",
+    "remark": "Banner广告所需path和divId参数",
+    "required": false
+  },
+  {
+    "platform": "adx",
+    "regex": "defineOutOfPageSlot\\('([^']+)',\\s*googletag\\.enums\\.OutOfPageFormat\\.BOTTOM_ANCHOR",
+    "paramTemplate": "{anchorPathParam: \"#group1\"}",
+    "remark": "锚定广告所需path参数",
+    "required": false
+  },
+  {
+    "platform": "adx",
+    "regex": "defineOutOfPageSlot\\('([^']+)',\\s*googletag\\.enums\\.OutOfPageFormat\\.INTERSTITIAL",
+    "paramTemplate": "{interstitialPathParam: \"#group1\"}",
+    "remark": "插屏广告所需path参数",
+    "required": false
+  }
+]

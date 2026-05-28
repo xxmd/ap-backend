@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "taskId": "1123xafada",
+    "issueInfo": [
+      {
+        "icon": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7312314546574606382~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=9a6fd397&x-expires=1780102800&x-signature=coOqCIAQ%2BUyf8yuWo8RBrTP41ao%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "title": "TikTok - Videos,Shop & LIVE",
+        "text": "No band-aid no problem",
+        "link": "https://www.tiktok.com/@614lyfe/video/7622822514258906382?is_from_webapp=1&sender_device=pc"
+      },
+      {
+        "icon": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/8e0880756c66595cc7db9a05931915c0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=d78ce26e&x-expires=1780102800&x-signature=AG0kDUfSQM2UDwTWC15dZUrOY54%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+        "title": "TikTok Lite",
+        "text": "Don’t let your boyfriend keep from finding your husband \uD83D\uDC8D\uD83D\uDE0C",
+        "link": "https://www.tiktok.com/@theelailah/video/7632332104386268430?is_from_webapp=1&sender_device=pc"
+      }
+    ],
+    "strategyInfo": {
+      "maxTimes": 12,
+      "interval": 1,
+      "launchTime": 5,
+      "launch": true
+    }
+  }
+}

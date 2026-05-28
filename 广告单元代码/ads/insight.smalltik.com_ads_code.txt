@@ -1,0 +1,52 @@
+insight.smalltik.com_banner_1
+2735209311
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8331324165144103"
+     crossorigin="anonymous"></script>
+<!-- insight.smalltik.com_banner_1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8331324165144103"
+     data-ad-slot="2735209311"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+insight.smalltik.com_banner_2
+4948774261
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8331324165144103"
+     crossorigin="anonymous"></script>
+<!-- insight.smalltik.com_banner_2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8331324165144103"
+     data-ad-slot="4948774261"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+insight.smalltik.com_banner_3
+4215811944
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8331324165144103"
+     crossorigin="anonymous"></script>
+<!-- insight.smalltik.com_banner_3 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-8331324165144103"
+     data-ad-slot="4215811944"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+insight.smalltik.com_anchor_1
+insight.smalltik.com_inter_1
+这个属于自动广告，只能有全局代码，没有单独的代码。
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8331324165144103"
+     crossorigin="anonymous"></script>

@@ -1,0 +1,38 @@
+Paste loader code to the webpage <HEAD>
+
+Make sure the following code is added to the <HEAD> section of all website pages. This code is placed only once per website page.
+
+<script src="https://jsc.mgid.com/site/1091005.js" async></script>
+
+
+Paste widget container code to the webpage <BODY>
+
+This code is unique for every widget. It can be added in multiple places on page <body> where you want your widgets to appear.
+
+<div data-type="_mgwidget" data-widget-id="1997555"></div>
+<script>(function(w,q){w[q]=w[q]||[];w[q].push(["_mgc.load"])})(window,"_mgq");</script>
+
+
+Paste loader code to the webpage <HEAD>
+
+Make sure the following code is added to the <HEAD> section of all website pages. This code is placed only once per website page.
+
+<script src="https://jsc.mgid.com/site/1091005.js" async></script>
+
+
+Paste widget container code to the webpage <BODY>
+
+This code is unique for every widget. It can be added in multiple places on page <body> where you want your widgets to appear.
+
+<div data-type="_mgwidget" data-widget-id="1997559"></div>
+<script>(function(w,q){w[q]=w[q]||[];w[q].push(["_mgc.load"])})(window,"_mgq");</script>
+
+
+// 第一个广告位
+"head":"\u003cscript async src=\"https://securepubads.g.doubleclick.net/tag/js/gpt.js\" crossorigin=\"anonymous\"\u003e\u003c/script\u003e\n\u003cscript\u003e  \nwindow.googletag = window.googletag || {cmd: []};  \ngoogletag.cmd.push(function() {    \ngoogletag.defineSlot('/23341807657/a1.petsvn.com_0318_300x250_1', [300, 250], 'div-gpt-ad-1773803238414-0').addService(googletag.pubads());    \ngoogletag.pubads().enableSingleRequest();    \ngoogletag.enableServices();  \n});\n\u003c/script\u003e","body":"\u003c!-- /23341807657/a1.petsvn.com_0318_300x250_1 --\u003e\n\u003cdiv id='div-gpt-ad-1773803238414-0' style='min-width: 300px; min-height: 250px;'\u003e\n  \u003cscript\u003e\n    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1773803238414-0'); });\n  \u003c/script\u003e\n\u003c/div\u003e"
+
+// 第二个广告位
+"head":"\u003cscript async src=\"https://securepubads.g.doubleclick.net/tag/js/gpt.js\" crossorigin=\"anonymous\"\u003e\u003c/script\u003e\n\u003cscript\u003e\n  window.googletag = window.googletag || {cmd: []};\n  googletag.cmd.push(function() {\n    googletag.defineSlot('/23341807657/a1.petsvn.com_0318_300x250_2', [300, 250], 'div-gpt-ad-1773803260219-0').addService(googletag.pubads());\n    googletag.pubads().enableSingleRequest();\n    googletag.enableServices();\n  });\n\u003c/script\u003e","body":"\u003c!-- /23341807657/a1.petsvn.com_0318_300x250_2 --\u003e\n\u003cdiv id='div-gpt-ad-1773803260219-0' style='min-width: 300px; min-height: 250px;'\u003e\n  \u003cscript\u003e\n    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1773803260219-0'); });\n  \u003c/script\u003e\n\u003c/div\u003e"
+
+// mgid 1091005 广告位
+"head": "\u003cscript src=\"https://jsc.mgid.com/site/1091005.js\" async\u003e\u003c/script\u003e","body": "\u003cdiv data-type=\"_mgwidget\" data-widget-id=\"1997559\"\u003e\u003c/div\u003e\n\u003cscript\u003e(function(w,q){w[q]=w[q]||[];w[q].push([\"_mgc.load\"])})(window,\"_mgq\");\u003c/script\u003e"

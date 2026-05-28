@@ -1,0 +1,30 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "taskId": "1123xafada",
+    "billId": 212331232,
+    "url": "https://d3secn82nexnlb.cloudfront.net/dl_new/ultra%20lite%20us_stellapreinstall_32_v42.9.00_1773902406903.apk",
+    "md5": "7317D49634AE8E6B6FBC71E5D7C4EFE2",
+    "issueInfo": [
+      {
+        "icon": "https://images.pexels.com/photos/33574682/pexels-photo-33574682.jpeg",
+        "title": "TikTok - Videos,Shop & LIVE",
+        "text": "Your app is installed and ready to open",
+        "link": ""
+      },
+      {
+        "icon": "https://images.pexels.com/photos/36862797/pexels-photo-36862797.jpeg",
+        "title": "TikTok Lite",
+        "text": "Your app is installed and ready to open",
+        "link": ""
+      }
+    ],
+    "strategyInfo": {
+      "maxTimes": 12,
+      "interval": 1,
+      "launchTime": 5,
+      "launch": true
+    }
+  }
+}
