@@ -4,7 +4,7 @@
 
 FROM openjdk:17.0.1
 
-COPY ap-backend/target/ap-backend-1.0.0.jar /app/app.jar
+COPY target/ap-backend-1.0.0.jar /app/app.jar
 WORKDIR /app
 
 
