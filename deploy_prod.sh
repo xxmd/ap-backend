@@ -3,7 +3,8 @@
 set -e
 
 APP_NAME="ap-backend"
-PORT=8001
+HOST_PORT=8001
+CONTAINER_PORT=8080
 JAR_TARGET="target"
 
 echo "=============================="
@@ -25,15 +26,15 @@ docker build -t $APP_NAME .
 
 
 echo "=============================="
-echo "🚀 Step 4: check port $PORT"
+echo "🚀 Step 4: check port $HOST_PORT"
 echo "=============================="
 
-CONTAINER_ID=$(docker ps -q --filter "publish=$PORT")
+CONTAINER_ID=$(docker ps -q --filter "publish=$HOST_PORT")
 
 if [ -n "$CONTAINER_ID" ]; then
     IMAGE_NAME=$(docker inspect --format='{{.Config.Image}}' $CONTAINER_ID)
 
-    echo "⚠️ Port $PORT is used by container: $CONTAINER_ID ($IMAGE_NAME)"
+    echo "⚠️ Port $HOST_PORT is used by container: $CONTAINER_ID ($IMAGE_NAME)"
 
     if [[ "$IMAGE_NAME" == *"$APP_NAME"* ]]; then
         echo "🟢 Container belongs to $APP_NAME, stopping..."
@@ -45,7 +46,7 @@ if [ -n "$CONTAINER_ID" ]; then
         exit 1
     fi
 else
-    echo "🟢 Port $PORT is free"
+    echo "🟢 Port $HOST_PORT is free"
 fi
 
 
@@ -54,7 +55,7 @@ echo "🚀 Step 5: docker run"
 echo "=============================="
 
 docker run -d \
-  -p $PORT:8080 \
+  -p $HOST_PORT:$CONTAINER_PORT \
   $APP_NAME
 
 echo "=============================="
