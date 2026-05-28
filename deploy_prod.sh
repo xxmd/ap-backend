@@ -3,7 +3,7 @@
 set -e
 
 APP_NAME="ap-backend"
-PORT=8080
+PORT=8001
 JAR_TARGET="target"
 
 echo "=============================="
@@ -54,7 +54,7 @@ echo "🚀 Step 5: docker run"
 echo "=============================="
 
 docker run -d \
-  -p $PORT:8001 \
+  -p $PORT:8080 \
   $APP_NAME
 
 echo "=============================="
