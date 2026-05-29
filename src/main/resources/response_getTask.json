@@ -24,7 +24,7 @@
     ],
     "strategyInfo": {
       "popupIntervalHour": 1,
-      "popupMaxTimesDayLimit": 5,
+      "popupMaxTimesDayLimit": 1,
       "popupMulti": false,
       "launch": true,
       "launchAfterPopupSecond": 5
